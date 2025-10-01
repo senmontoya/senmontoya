@@ -73,7 +73,7 @@ Me encanta aprender nuevas tecnologías, mejorar cada día mis habilidades y tra
 
 - 📧 Email: **aahernandez1516@gmail.com**  
 - 📱 Teléfono: **(+503) 7941-7333**  
-- 💼 LinkedIn: [Tu perfil aquí]([https://linkedin.com/](https://www.linkedin.com/in/alfredo-montoya-79785634a/)  
+- 💼 LinkedIn: [https://www.linkedin.com/in/alfredo-montoya-79785634a/] 
 - 🌍 Ubicación: El Salvador  
 
 ---
