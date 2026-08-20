@@ -1,8 +1,7 @@
-# 👋 Hola, soy Alfredo Antonio Hernández Montoya  
+# Alfredo Montoya 
 
-💻 **Desarrollador de Software con Enfoque Full Stack (FrontEnd, BackEnd y Base de Datos)**  
-Soy un apasionado del desarrollo de software, con interés en crear soluciones eficientes y escalables que realmente marquen la diferencia.  
-Me encanta aprender nuevas tecnologías, mejorar cada día mis habilidades y trabajar en equipo para llevar proyectos a la realidad.  
+> **Neko Labs CEO**  
+> I'm CEO. (And yeah, I code.)
 
 ---
 
