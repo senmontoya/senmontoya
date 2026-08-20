@@ -5,4 +5,4 @@
 
 ### 📬 Connect & Collaborate
 * 💼 **Partnerships & Business**: `montoya.nekolabs@gmail.com`
-* 🌐 **Website**: [empresa.com]([https://empresa.com](https://neko-labs.vercel.app/en)
+* 🌐 **Website**: [empresa.com]([https://nekolabs](https://neko-labs.vercel.app/en)
