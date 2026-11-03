@@ -1,8 +1,2 @@
-# Alfredo Montoya 
-
-> **Neko Labs CEO**  
-> I'm CEO. (And yeah, I code.)
-
-### 📬 Connect & Collaborate
-* 💼 **Partnerships & Business**: `montoya.nekolabs@gmail.com`
-* 🌐 **Website**: [neko-labs.vercel.app]([https://neko-labs.vercel.app](https://neko-labs.vercel.app/en))
+Hi! I'm Alfredo Montoya | Software Engineer 
+CEO & Co-founder at [Neko Labs](https://neko-labs.vercel.app/en) 
